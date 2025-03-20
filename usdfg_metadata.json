@@ -1,0 +1,10 @@
+{
+  "name": "United We Stand Divided We Fall Gaming",
+  "symbol": "USDFG",
+  "description": "USDFG is a gaming-focused token that rewards players through competitions and leaderboards.",
+  "image": "https://usdfcoin.fun/public/images/gaming-ghost.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Gaming" },
+    { "trait_type": "Supply", "value": "21,000,000" }
+  ]
+}
