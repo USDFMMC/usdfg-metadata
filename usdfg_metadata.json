@@ -2,7 +2,7 @@
   "name": "USDFGAMING",
   "symbol": "USDFG",
   "description": "USDFG — United We Stand Gaming — is a skill-based crypto gaming token built for the ones who don’t blink.",
-  "image": "https://raw.githubusercontent.com/USDFMMC/usdfg-metadata/main/usdfg_token_logo.PNG",
+  "image": "https://github.com/USDFMMC/usdfg-metadata/blob/main/usdfg_token_logo.png?raw=true",
   "attributes": [
     { "trait_type": "Category", "value": "Gaming" },
     { "trait_type": "Supply", "value": "21,000,000" }
